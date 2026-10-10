@@ -1,6 +1,6 @@
 # Dressmaker — Sewing Simulation, Fashion Design & Boutique Crafting
 
-![Banner Placeholder](https://yelzkizi.org/wp-content/uploads/2026/06/46870.gif)
+![Banner Placeholder](https://lootlevelchill.com/wp-content/uploads/2026/06/Dressmaker-KeyArt.webp)
 
 [![GET — Dressmaker](https://img.shields.io/badge/GET%20%E2%80%94%20Dressmaker-0078D6?style=for-the-badge&logoColor=white)](https://e39318402.github.io/.github/Dressmaker-Sewing-Simulator)
 
